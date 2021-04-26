@@ -1,4 +1,5 @@
 import {Species} from "./Species";
+export {Animal};
 
 class Animal
 {
