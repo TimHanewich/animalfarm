@@ -2,8 +2,8 @@
   "name": "animalfarm",
   "version": "0.1.1",
   "description": "The dog says woof",
-  "main": "./dist/index.js",
-  "typings": "./dist/index.d.ts",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
